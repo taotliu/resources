@@ -13,9 +13,13 @@ tagline: useful information
 
 #### R
 
+tba
+
 ---
 
-#### STATA
+#### Stata
+
+tba
 
 ---
 
