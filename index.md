@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Resources 
-tagline: some useful information 
+tagline: useful information 
 ---
+
+## Python 
 
 I obtained my PhD degree in Biostatistics at [the University of Pennsylvania](http://www.upenn.edu) in 2006. Then I joined the faculty in [the Department of Biostatistics and Center for Statistical Sciences](http://stat.brown.edu) at [Brown University](http://brown.edu). I am also a faculty member affiliated with [the Center for AIDS Research (CFAR)](http://lifespan.org), the Alcohol Research Center on HIV [(ARCH)](http://www.brown.edu/academics/medical/alcohol-research-center-on-hiv/), and American College of Radiology Imaging Network [(ACRIN)](http://acrin.org). 
 
