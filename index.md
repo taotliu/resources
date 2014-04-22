@@ -32,6 +32,8 @@ tba
 - LaTex [shortcuts](http://vim-latex.sourceforge.net/documentation/latex-suite/latex-macros.html)
 - Most productive [shortcuts](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1218429)
 
+---
+
 #### GitHub
 - Create project page [(gh-pages)](https://help.github.com/articles/creating-project-pages-manually)
 
