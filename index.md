@@ -18,8 +18,7 @@ tba
 ---
 
 #### Stata
-
-tba
+- Stata [graphs](http://www.stata.com/support/faqs/graphics/gph/stata-graphs/)
 
 ---
 
