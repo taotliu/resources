@@ -10,9 +10,14 @@ tagline: useful information
 - Notebook viewer [link](http://nbviewer.ipython.org)
  
 ---
+
 #### R
 
+---
+
 #### STATA
+
+---
 
 #### LaTeX
 - Math [notations](http://en.wikibooks.org/wiki/LaTeX/Mathematics)
