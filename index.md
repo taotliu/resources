@@ -13,7 +13,8 @@ tagline: useful information
 
 #### R
 
-to be added 
+- RStudio 
+ 
 
 ---
 
