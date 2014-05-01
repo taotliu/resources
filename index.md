@@ -4,6 +4,9 @@ title: Resources
 tagline: useful information 
 ---
 
+#### [GNU Scientific Library](http://www.gnu.org/software/gsl/)
+
+
 #### [Python](http://www.python.org) 
 
 - A beginner [tutorial](https://wakari.io/gallery) 
