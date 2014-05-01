@@ -4,7 +4,7 @@ title: Resources
 tagline: useful information 
 ---
 
-#### Python 
+#### [Python](http://www.python.org) 
 
 - A beginner [tutorial](https://wakari.io/gallery) 
 - Notebook viewer [link](http://nbviewer.ipython.org)
