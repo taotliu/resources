@@ -13,7 +13,7 @@ tagline: useful information
 
 #### R
 
-- RStudio 
+- RStudio   
   sldkf 
   lsdkfjas dfadflk 
   sldkfjas df 
