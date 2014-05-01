@@ -18,7 +18,7 @@ tagline: useful information
 
 #### [R](http://www.r-project.org)
 
-- RStudio   
+- [RStudio](https://www.rstudio.com) (A very good IDE for R)
 
   To generate graphs with a better resolution, add the following parameters 
   
