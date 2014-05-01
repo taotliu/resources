@@ -8,7 +8,8 @@ tagline: useful information
 
 - A beginner [tutorial](https://wakari.io/gallery) 
 - Notebook viewer [link](http://nbviewer.ipython.org)
- 
+  ...[more](foo) 
+
 ---
 
 #### R
