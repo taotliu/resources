@@ -7,7 +7,9 @@ tagline: useful information
 #### [GNU Scientific Library](http://www.gnu.org/software/gsl/)
 - A free numerical library for C and C++ programmers
 
+
 ---
+
 #### [Python](http://www.python.org) 
 
 - A beginner [tutorial](https://wakari.io/gallery) 
@@ -16,6 +18,7 @@ tagline: useful information
   ...[more](foo) 
 
 ---
+
 #### [R](http://www.r-project.org)
 
 - [RStudio](https://www.rstudio.com) (A very good IDE for R)
