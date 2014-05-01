@@ -5,7 +5,7 @@ tagline: useful information
 ---
 
 #### [GNU Scientific Library](http://www.gnu.org/software/gsl/)
-
+- A free numerical library for C and C++ programmers
 
 #### [Python](http://www.python.org) 
 
