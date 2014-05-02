@@ -28,7 +28,7 @@ tagline: useful information
   >  ```{r fig1, fig.width=9, fig.height=3, unit="in", dpi=200}
   >  ```
 
-- Style [guide](assets/google_style.pdf) recmd by google
+- Style [guide](assets/google_style.pdf) recommended by google
 
 ---
 
