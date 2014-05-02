@@ -30,7 +30,7 @@ tagline: useful information
 
 - Style guide 
 
-  [see](https://google-styleguide.googlecode.com/svn/trunk/Rguide.xml)
+  [google](assets/google_style.pdf)
 
 ---
 
