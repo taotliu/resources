@@ -28,6 +28,10 @@ tagline: useful information
   >  ```{r fig1, fig.width=9, fig.height=3, unit="in", dpi=200}
   >  ```
 
+- Style guide 
+
+  [see](https://google-styleguide.googlecode.com/svn/trunk/Rguide.xml)
+
 ---
 
 #### Stata
