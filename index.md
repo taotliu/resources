@@ -86,7 +86,9 @@ tagline: useful information
 - Misc. 
 
   >	\usepackage[latin9]{inputenc} 
-  				      %allows for inputting accented chars directly from the KB
+  				      %allows for inputting accented chars directly from the K
+  >	\usepackage{mathpazo}
+
 
 ---
 
