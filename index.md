@@ -98,6 +98,7 @@ tagline: useful information
   > 	\usepackage{breakurl}	      % url line break 
   > 	\usepackage{booktabs}	      % table makeups
   >	\usepackage{graphicx}	      % figures 
+  >	\renewcommand{\bibsection}{\centering \textbf{REFERENCES}}
 
 ---
 
