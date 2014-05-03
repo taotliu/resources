@@ -92,7 +92,7 @@ tagline: useful information
 
 - math 
 
-  >	\usepackage{amsmath,amssymb,amsthm,mathrsfs}
+  >	\usepackage{amsmath,amssymb,amsthm,mathrsfs,amsfonts}
 
 - Misc. 
 
@@ -104,6 +104,9 @@ tagline: useful information
   >	\usepackage{graphicx}	      % figures 
   >	\renewcommand{\bibsection}{\centering \textbf{REFERENCES}}
 
+  >	\usepackage{setspace}
+  >	%\doublespacing
+  >	%\onehalfspacing
 ---
 
 #### Vim 
