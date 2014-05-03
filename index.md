@@ -27,7 +27,7 @@ tagline: useful information
 - [RStudio](https://www.rstudio.com) (A very good IDE for R)
 
   > To generate graphs with a better resolution, add the following parameters 
-  >    {r fig1, fig.width=9, fig.height=3, unit="in", dpi=200}
+  >    ```{r fig1, fig.width=9, fig.height=3, unit="in", dpi=200}
   >    plot(foo)
   >    ```
 
