@@ -90,6 +90,10 @@ tagline: useful information
   >	\usepackage[T1]{fontenc}	% prerequisite
   >	\usepackage[chinese]{babel}
 
+- math 
+
+  >	\usepackage{amsmath,amssymb,amsthm,mathrsfs}
+
 - Misc. 
 
   >	\usepackage[latin9]{inputenc} 
