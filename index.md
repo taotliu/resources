@@ -66,7 +66,16 @@ tagline: useful information
 
 - Citation 'name-author-year' 
 
-  >	   \usepackage[super,sort&compress,comma]{natbib}
+  >	\usepackage[super,sort&compress,comma]{natbib}
+
+- Fancy heading
+
+  >  	\usepackage{fancyheadings}
+  > 	\lhead{Draft}
+  > 	\rhead{\textsf{Liu, Tao}}
+  > 	\cfoot{\textsf{Page} \sf\thepage}
+  > 	\pagestyle{fancy}
+
 
 ---
 
