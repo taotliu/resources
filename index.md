@@ -34,7 +34,9 @@ tagline: useful information
 
 - Style [guide](assets/google_style.pdf) recommended by google
 
-- Lattice (trellis) [graphs](http://www.statmethods.net/advgraphs/trellis.html) 
+- Lattice (trellis) 
+
+  >	  [graphs](http://www.statmethods.net/advgraphs/trellis.html) 
   ![.](assets/lattice_graphs.png) 
 
 ---
