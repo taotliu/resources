@@ -83,11 +83,19 @@ tagline: useful information
   >	 \renewcommand{\thesubsubsection}{\thesubsection\alph{subsubsection}}
   >	 \renewcommand{\textfraction}{.2}
 
+- Write in other language 
+
+  > 	\usepackage[utf8]{inputenc}	% prerequisite
+  >	\usepackage[T1]{fontenc}	% prerequisite
+  >	\usepackage[chinese]{babel}
+
 - Misc. 
 
   >	\usepackage[latin9]{inputenc} 
   				      % allows for inputting accented chars directly from KB
   >	\usepackage{mathpazo}	      % Palatino font
+  > 	
+ 
 
 ---
 
