@@ -83,7 +83,10 @@ tagline: useful information
   >	 \renewcommand{\thesubsubsection}{\thesubsection\alph{subsubsection}}
   >	 \renewcommand{\textfraction}{.2}
 
+- Misc. 
 
+  >	\usepackage[latin9]{inputenc} 
+  				      %allows the user to input accented characters directly from the keyboard;
 
 ---
 
