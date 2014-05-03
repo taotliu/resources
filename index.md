@@ -96,7 +96,8 @@ tagline: useful information
   				      % allows for inputting accented chars directly from KB
   >	\usepackage{mathpazo}	      % Palatino font
   > 	\usepackage{breakurl}	      % url line break 
- 
+  > 	\usepackage{booktabs}	      % table makeups
+  >	\usepackage{graphicx}	      % figures 
 
 ---
 
