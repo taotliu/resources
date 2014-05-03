@@ -67,6 +67,7 @@ tagline: useful information
 - Citation 'name-author-year' 
 
   >	\usepackage[super,sort&compress,comma]{natbib}
+  >	\bibpunct{(}{)}{;}{a}{}{,}
 
 - Fancy heading
 
@@ -83,7 +84,7 @@ tagline: useful information
   >	 \renewcommand{\thesubsubsection}{\thesubsection\alph{subsubsection}}
   >	 \renewcommand{\textfraction}{.2}
 
-- Write in other language 
+- Write in other languages 
 
   > 	\usepackage[utf8]{inputenc}	% prerequisite
   >	\usepackage[T1]{fontenc}	% prerequisite
