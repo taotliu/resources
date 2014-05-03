@@ -64,6 +64,10 @@ tagline: useful information
   >	 %\titlespacing{\subsection}{0pt}{3pt}{0pt}
   > 	 %\titlespacing{\subsubsection}{0pt}{3pt}{0pt}
 
+- Citation 'name-author-year' 
+
+  >	   \usepackage[super,sort&compress,comma]{natbib}
+
 ---
 
 #### Vim 
