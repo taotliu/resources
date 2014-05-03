@@ -90,9 +90,15 @@ tagline: useful information
   >	\usepackage[T1]{fontenc}	% prerequisite
   >	\usepackage[chinese]{babel}
 
-- math 
+- Math 
 
   >	\usepackage{amsmath,amssymb,amsthm,mathrsfs,amsfonts}
+
+- Line space 
+
+  >	\usepackage{setspace}
+  >	%\doublespacing
+  >	%\onehalfspacing
 
 - Misc. 
 
@@ -104,9 +110,6 @@ tagline: useful information
   >	\usepackage{graphicx}	      % figures 
   >	\renewcommand{\bibsection}{\centering \textbf{REFERENCES}}
 
-  >	\usepackage{setspace}
-  >	%\doublespacing
-  >	%\onehalfspacing
 ---
 
 #### Vim 
