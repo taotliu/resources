@@ -49,7 +49,11 @@ tagline: useful information
 - Math [symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)
 - Hightlighting and underlining 
 
-  >	\usepackage{soul, color}	% \ul{} \hl{}
+  >	\usepackage{soul, color}	% use \ul{}, \hl{}
+
+- Todonotes
+
+  >	\usepackage{todonotes}		% use \todo{text}, \missingfigure, \listoftodos
 
 ---
 
