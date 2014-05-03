@@ -57,6 +57,13 @@ tagline: useful information
   >	\usepackage[left=.3in, right=1.7in,top=1in, bottom=1in]{geometry}
   >			       		% make right margin wider
 
+- Reduce space around title/sections
+
+  >	 \usepackage[compact]{titlesec}
+  >	 %\titlespacing{\section}{0pt}{4pt}{0pt}
+  >	 %\titlespacing{\subsection}{0pt}{3pt}{0pt}
+  > 	 %\titlespacing{\subsubsection}{0pt}{3pt}{0pt}
+
 ---
 
 #### Vim 
