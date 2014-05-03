@@ -45,8 +45,7 @@ tagline: useful information
 ---
 
 #### LaTeX
-- Math [notations](http://en.wikibooks.org/wiki/LaTeX/Mathematics)
-- Math [symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)
+- Math [notations](http://en.wikibooks.org/wiki/LaTeX/Mathematics) and [symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)
 - [Hightlighting and underlining](http://www.ctan.org/pkg/soul)
 
   >	\usepackage{soul, color}	% use \ul{}, \hl{}
