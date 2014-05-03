@@ -55,7 +55,7 @@ tagline: useful information
   >	\usepackage[textwidth=1.5in, textsize=tiny]{todonotes}		
   >					% use \todo{text}, \missingfigure, \listoftodos
   >	\usepackage[left=.3in, right=1.7in,top=1in, bottom=1in]{geometry}
-
+  >			       		% make right margin wider
 ---
 
 #### Vim 
