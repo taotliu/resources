@@ -52,7 +52,9 @@ tagline: useful information
 
 - [Todonotes](http://www.tex.ac.uk/ctan/macros/latex/contrib/todonotes/todonotes.pdf)
 
-  >	\usepackage{todonotes}		% use \todo{text}, \missingfigure, \listoftodos
+  >	\usepackage[textwidth=1.5in, textsize=tiny]{todonotes}		
+  >					% use \todo{text}, \missingfigure, \listoftodos
+  >	\usepackage[left=.3in, right=1.7in,top=1in, bottom=1in]{geometry}
 
 ---
 
