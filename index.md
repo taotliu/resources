@@ -70,7 +70,7 @@ tagline: useful information
 
 - Fancy heading
 
-  >  	\usepackage{fancyheadings}
+  >	\usepackage{fancyheadings}
   > 	\lhead{Draft}
   > 	\rhead{\textsf{Liu, Tao}}
   > 	\cfoot{\textsf{Page} \sf\thepage}
