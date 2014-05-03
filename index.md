@@ -28,8 +28,8 @@ tagline: useful information
 
   To generate graphs with a better resolution, add the following parameters 
   
-  >  ```{r fig1, fig.width=9, fig.height=3, unit="in", dpi=200}
-  >  ```
+  >	```{r fig1, fig.width=9, fig.height=3, unit="in", dpi=200}
+  >	```
 
 - Style [guide](assets/google_style.pdf) recommended by google
 
@@ -48,7 +48,7 @@ tagline: useful information
 - Math [symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)
 - Hightlighting and underlining 
 
-> 	\usepackage{soul, color}
+  >	\usepackage{soul, color}
 
 ---
 
