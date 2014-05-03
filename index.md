@@ -86,7 +86,7 @@ tagline: useful information
 - Misc. 
 
   >	\usepackage[latin9]{inputenc} 
-  				      %allows the user to input accented characters directly from the keyboard;
+  				      %allows for inputting accented chars directly from the KB
 
 ---
 
