@@ -8,7 +8,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Resources
+title : tao liu @ brown 
 author :
   name : Tao Liu
   email : tao.tliu@gmail.com
@@ -16,7 +16,7 @@ author :
 #  twitter : taotliu
   feedburner : nil
 
-production_url : http://taotliu.github.io/resources
+production_url : http://taotliu.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -50,7 +50,7 @@ JB :
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
 
-  BASE_PATH : http://taotliu.github.io/resources
+  BASE_PATH : http://taotliu.github.io
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
