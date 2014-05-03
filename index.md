@@ -15,8 +15,8 @@ tagline: useful information
 - A beginner [tutorial](https://wakari.io/gallery) 
 - Notebook viewer [link](http://nbviewer.ipython.org)
 - Python [data type](http://www.tutorialspoint.com/python/python_variable_types.htm)  
-  ...[more](foo) 
 - Pandas [data type](http://pandas.pydata.org/pandas-docs/stable/dsintro.html)
+  ...[more](foo) 
 
 ---
 
