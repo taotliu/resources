@@ -95,7 +95,7 @@ tagline: useful information
   >	\usepackage[latin9]{inputenc} 
   				      % allows for inputting accented chars directly from KB
   >	\usepackage{mathpazo}	      % Palatino font
-  > 	
+  > 	\usepackage{breakurl}	      % url line break 
  
 
 ---
