@@ -76,6 +76,14 @@ tagline: useful information
   > 	\cfoot{\textsf{Page} \sf\thepage}
   > 	\pagestyle{fancy}
 
+- Change section numbering
+
+  >	 \renewcommand{\thesection}{\Alph{section}.}
+  >	 \renewcommand{\thesubsection}{\thesection\arabic{subsection}.}
+  >	 \renewcommand{\thesubsubsection}{\thesubsection\alph{subsubsection}}
+  >	 \renewcommand{\textfraction}{.2}
+
+
 
 ---
 
