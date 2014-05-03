@@ -28,9 +28,7 @@ tagline: useful information
 
   > To generate graphs with a better resolution, add the following parameters   
 
-  >	\usepackage{soul, color}	% use \ul{}, \hl{}
-
-  >    ```{r fig1, fig.width=9, fig.height=3, unit="in", dpi=200}
+  >	```{r fig1, fig.width=9, fig.height=3, unit="in", dpi=200}
   >    plot(foo)
   >    ```
 
