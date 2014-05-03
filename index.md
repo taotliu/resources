@@ -51,7 +51,7 @@ tagline: useful information
 
   >	\usepackage{soul, color}	% use \ul{}, \hl{}
 
-- Todonotes
+- [Todonotes](http://www.tex.ac.uk/ctan/macros/latex/contrib/todonotes/todonotes.pdf)
 
   >	\usepackage{todonotes}		% use \todo{text}, \missingfigure, \listoftodos
 
