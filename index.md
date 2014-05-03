@@ -16,6 +16,7 @@ tagline: useful information
 - Notebook viewer [link](http://nbviewer.ipython.org)
 - Python [data type](http://www.tutorialspoint.com/python/python_variable_types.htm)  
 - Pandas [data type](http://pandas.pydata.org/pandas-docs/stable/dsintro.html)
+- [Statsmodels module](http://statsmodels.sourceforge.net)
 
   ...[more](foo) 
 
