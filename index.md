@@ -48,7 +48,8 @@ tagline: useful information
 - Math [symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)
 - Hightlighting and underlining 
 
-  >	\usepackage{soul, color}
+> 	\usepackage{soul, color}
+
 ---
 
 #### Vim 
