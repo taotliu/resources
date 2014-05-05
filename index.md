@@ -124,8 +124,8 @@ tagline: useful information
 
   Or, create ~/.vim/view, and place this in your .vimrc :
 
-  >   	     au BufWinLeave * mkview
-  >   	     au BufWinEnter * silent loadview	
+  >   	 au BufWinLeave * mkview
+  >      au BufWinEnter * silent loadview	
 
 ---
 
