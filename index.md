@@ -116,8 +116,9 @@ tagline: useful information
 #### Vim 
 - LaTex [shortcuts](http://vim-latex.sourceforge.net/documentation/latex-suite/latex-macros.html)
 - Most productive [shortcuts](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1218429)
-- close a buffer:  `:BW` 
-- (insert) VISUAL model:  `ctrl+o, v`.
+- Close a buffer:  `:BW` 
+- Initiate the (insert) VISUAL model:  `ctrl+o, v`.
+- Use ``0` to go to the last edited file position. Last file means no need to open the file. 
 
 ---
 
