@@ -118,7 +118,11 @@ tagline: useful information
 - Most productive [shortcuts](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1218429)
 - Close a buffer:  `:BW` 
 - Initiate the (insert) VISUAL model:  `ctrl+o, v`.
-- Use ``0` to go to the last edited file position. Last file means no need to open the file. 
+- Open at the last edited file position. 
+  
+  >	'0; no need to open the file. 
+
+  > 	
 
 ---
 
