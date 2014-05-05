@@ -122,7 +122,10 @@ tagline: useful information
   
   >	'0; no need to open the file. 
 
-  > 	
+  Or, create ~/.vim/view, and place this in your .vimrc :
+
+  >   au BufWinLeave * mkview
+  >   au BufWinEnter * silent loadview	
 
 ---
 
