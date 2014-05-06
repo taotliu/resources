@@ -111,6 +111,8 @@ tagline: useful information
   >	\usepackage{graphicx}	      % figures 
   >	\renewcommand{\bibsection}{\centering \textbf{REFERENCES}}
 
+- Wrapping [text around figures](http://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions)
+
 ---
 
 #### Vim 
@@ -135,7 +137,7 @@ tagline: useful information
 
   Supply the command line option `-synctex=1`, or include \synctex=1 
   
-  In Skim, choose Preference -> sync. Need to move mvim in the installation package to /usr/local/bin. 
+  In Skim, choose Preference -> sync. (Need to move mvim in the installation package to /usr/local/bin.) 
 
   In Skim: use shift+command+click. In vim, use ,r.
 
