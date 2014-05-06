@@ -113,6 +113,16 @@ tagline: useful information
 
 - Wrapping [text around figures](http://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions)
 
+  >	   \begin{wrapfigure}{r}{0.5\textwidth}
+  >	     \vspace{-20pt}
+  >	     \begin{center}
+  >	       \includegraphics[width=0.48\textwidth]{gull}
+  >	     \end{center}
+  >	     \vspace{-20pt}
+  >	     \caption{A gull}
+  >	     \vspace{-10pt}
+  >	   \end{wrapfigure}
+
 ---
 
 #### Vim 
