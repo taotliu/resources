@@ -127,6 +127,14 @@ tagline: useful information
   >	au BufWinLeave * mkview
   >	au BufWinEnter * silent loadview	
 
+- Sync with Skim
+  
+  Add a mapping in .vimrc or .vim/ftplugin/tex.vim     
+  
+  >     map ,r :w<CR>:silent !/Applications/Skim.app/Contents/SharedSupport/displayline <C-r>=line('.')<CR> %<.pdf %<CR>
+
+  Supply the command line option `-synctex=1`, or include \synctex=1 
+
 ---
 
 #### GitHub
