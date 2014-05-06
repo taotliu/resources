@@ -127,7 +127,7 @@ tagline: useful information
   >	au BufWinLeave * mkview
   >	au BufWinEnter * silent loadview	
 
-- Sync with Skim
+- [Sync with Skim](http://sourceforge.net/apps/mediawiki/skim-app/index.php?title=TeX_and_PDF_Synchronization)
   
   Add a mapping in .vimrc or .vim/ftplugin/tex.vim     
   
