@@ -134,6 +134,10 @@ tagline: useful information
   >     map ,r :w<CR>:silent !/Applications/Skim.app/Contents/SharedSupport/displayline <C-r>=line('.')<CR> %<.pdf %<CR>
 
   Supply the command line option `-synctex=1`, or include \synctex=1 
+  
+  In Skim, choose Preference -> sync. Need to move mvim in the installation package to /usr/local/bin. 
+
+  In Skim: use shift+command+click. In vim, use ,r.
 
 ---
 
