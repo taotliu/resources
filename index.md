@@ -175,7 +175,7 @@ tagline: useful information
   >      sudo iwconfig wlan0 essid dd-wrt	(connect to dd-wrt) 
   >      sudo dhclient wlan  (obtain IP) 
 
-- terminal 
+- Terminal 
   
   >	alias xterm = "xterm -fa 'Dejavu San Mono' -fs 10"
 
