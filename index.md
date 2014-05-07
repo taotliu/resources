@@ -165,6 +165,18 @@ tagline: useful information
 
 ---
 
+#### Linux
+
+- CL setup wifi 
+
+>    ifconfig -a	(optional, show all devices)
+>    sudo ifconfig wlan0 up 	   	
+>    sudo iwlist wlan0 scanning | less	(optional, show available wifi)
+>    sudo iwconfig wlan0 essid dd-wrt	(connect to dd-wrt) 
+>    sudo dhclient wlan  (obtain IP) 
+
+--- 
+
 #### GitHub
 - Create project page [(gh-pages)](https://help.github.com/articles/creating-project-pages-manually)
 
