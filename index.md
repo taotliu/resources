@@ -111,7 +111,7 @@ tagline: useful information
   >	\usepackage{graphicx}	      % figures 
   >	\renewcommand{\bibsection}{\centering \textbf{REFERENCES}}
 
-- Wrapping [text around figures](http://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions)
+- Wrapping [text around figures](http://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions) and [tables](http://tex.stackexchange.com/questions/49300/wrap-text-around-a-tabular)
 
   >	   \begin{wrapfigure}{r}{0.5\textwidth}
   >	     \vspace{-20pt}
@@ -122,6 +122,18 @@ tagline: useful information
   >	     \caption{A gull}
   >	     \vspace{-10pt}
   >	   \end{wrapfigure}
+
+
+  >	   \begin{wraptable}{r}{5.5cm}
+  >	   \caption{A wrapped table going nicely inside the text.}\label{wrap-tab:1}	
+  >	   \begin{tabular}{ccc}\\\toprule  
+  >	   Header-1 & Header-1 & Header-1 \\\midrule
+  >	   2 &3 & 5\\  \midrule
+  >	   2 &3 & 5\\  \midrule
+  >	   2 &3 & 5\\  \bottomrule
+  >	   \end{tabular}
+  >	   \end{wraptable} 
+
 
 ---
 
