@@ -185,5 +185,9 @@ tagline: useful information
 #### GitHub
 - Create project page [(gh-pages)](https://help.github.com/articles/creating-project-pages-manually)
 
+---
+
+#### [Bullet Journal System](http://www.bulletjournal.com)
+
 --- 
 *Last updated Apirl 2014*
