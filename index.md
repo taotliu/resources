@@ -139,7 +139,10 @@ tagline: useful information
 
 #### Vim 
 - LaTex [shortcuts](http://vim-latex.sourceforge.net/documentation/latex-suite/latex-macros.html)
-- Most productive [shortcuts](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1218429)
+
+- Quick reference [card](assets/vimqrc.pdf)
+
+- Most productive LaTex [shortcuts](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1218429)
 - Close a buffer:  `:BW` 
 - Initiate the (insert) VISUAL model:  `ctrl+o, v`.
 - Open at the last edited file position. 
